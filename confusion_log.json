@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2025-12-29T11:28:41.435083",
+    "description": "The interface shows \"Click the icons to continue\" but clicking on the numbered icons (like icon 3) doesn't navigate to module content. The icons can be selected (highlighted with purple border) but don't launch their respective modules. The play button in the bottom right also doesn't seem to do anything.",
+    "location": "Course overview page - Harassment Prevention training",
+    "severity": "moderate"
+  }
+]
